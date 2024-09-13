@@ -1,0 +1,6 @@
+D:\vscode\Purple\My Projects\Games Library\bin\Debug\Games Library.dll
+D:\vscode\Purple\My Projects\Games Library\bin\Debug\Games Library.pdb
+D:\vscode\Purple\My Projects\Games Library\obj\Debug\Games Library.csproj.AssemblyReference.cache
+D:\vscode\Purple\My Projects\Games Library\obj\Debug\Games Library.csproj.CoreCompileInputs.cache
+D:\vscode\Purple\My Projects\Games Library\obj\Debug\Games Library.dll
+D:\vscode\Purple\My Projects\Games Library\obj\Debug\Games Library.pdb
